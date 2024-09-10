@@ -764,6 +764,11 @@
         "title": "PostgreSQL INTERSECT Operator",
         "url": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-intersect/",
         "type": "article"
+      },
+      {
+        "title": "PostgreSQL EXCEPT Operator",
+        "url": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-except/",
+        "type": "article"
       }
     ]
   },
